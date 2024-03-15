@@ -1,0 +1,11 @@
+.colores {
+    width: 200px; 
+    height: 200px; 
+    margin: 10px
+}
+.key {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 2px solid black;
+}
